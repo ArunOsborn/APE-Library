@@ -1,5 +1,6 @@
 # Smart monkeys
 
+OUTDATED. PLEASE USE ORIGINAL
 Initially made as a collection of useful functions by Arun, Pablo and Elia.
 This fork is a continuation made by Arun Osborn
 
